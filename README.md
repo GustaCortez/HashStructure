@@ -10,4 +10,7 @@ Regisro de nuevos
 
 ![image](https://github.com/GustaCortez/HashStructure/assets/93358662/d4a01062-4df1-4863-a969-5a4ee798dbc0)
 
+UML
+![image](https://github.com/GustaCortez/HashStructure/assets/93358662/311405db-ca3f-4b59-b528-ca88a3295640)
+
 
