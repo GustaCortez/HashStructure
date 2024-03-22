@@ -13,4 +13,6 @@ Regisro de nuevos
 UML
 ![image](https://github.com/GustaCortez/HashStructure/assets/93358662/311405db-ca3f-4b59-b528-ca88a3295640)
 
+UML: https://drive.google.com/file/d/145bInj3yin8Gr2MpK-Y4ypibb2i_fYPV/view?usp=sharing
+
 
